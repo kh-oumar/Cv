@@ -1,0 +1,149 @@
+
+.cv{
+  background-color: rgb(255, 245, 231);
+  width: 700px;
+  height: 55em;
+  border: 30px solid rgb(255, 189, 74);
+  margin-top: 30px;
+}
+hr{
+  border: 2px solid rgb(255, 189, 74);
+}
+.l1{
+  width: 70px;
+}
+
+h1{
+
+  font-size: 25px;
+  border-left: 12px solid rgb(255, 189, 74);
+  text-align: center;
+  height: 35px;
+
+
+}
+h2{
+  font-size: 20px;
+  font-weight: bold;
+  color: red;
+}
+
+#hard_skills{
+  padding: 10px;
+  font-size: 22px;
+  text-align: center;
+}
+
+.titre_langage{
+  font-size: 18px;
+  text-align: center;
+}
+.titre_exp{
+  color: red;
+  font-weight: bold;
+  font-size: 18px;
+}
+.text_exp{
+  font-size: 13px;
+  font-weight: bold;
+}
+.date{
+  color: black;
+  border-bottom: 3px solid rgb(255, 189, 74);
+}
+#liste_rouge{
+  list-style-image: url(logo/logo_point_rouge.png);
+}
+
+.langage_info{
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+  flex-flow: column wrap;
+  height: 100px;
+
+}
+
+#titre_stage{
+  text-align: center;
+}
+
+#text_stage{
+  text-align: center;
+  width: 200px;
+  margin-left: 20px;
+}
+.formation_actuelle{
+  width: 250px;
+  margin: 10px;
+  height: 460px;
+
+}
+
+#form_act{
+  font-size: 18px;
+  padding: 10px;
+
+
+}
+.cote_droite{
+  width: 350px;
+  height: 480px;
+  border-left: 3px solid rgb(255, 189, 74);
+}
+.exp_info{
+  border-bottom: 3px solid rgb(255, 189, 74);
+  height: 280px;
+}
+.hard_skills{
+  height: 190px;
+}
+
+.titre_dip{
+  font-size: 20px;
+  padding-left: 20px;
+}
+.text_dip{
+  font-size: 10px;
+  padding-left: 20px;
+}
+
+.titre_langue{
+  font-size: 20px;
+  padding-left: 20px;
+}
+.text_langue{
+  font-size: 14px;
+}
+
+.footer{
+  display: flex;
+  width: 100%;
+  padding-left: 10px;
+  border-top: 3px solid rgb(255, 189, 74);
+}
+
+.git{
+  position: relative;
+  left: 100px;
+  padding-top: 2px;
+
+}
+
+
+
+.coord{
+  font-size: 14px;
+
+}
+
+
+.present{
+  padding: 15px;
+  height: 250px;
+  width: 55%;
+}
+
+.logo_info{
+  width: 30px;
+}
